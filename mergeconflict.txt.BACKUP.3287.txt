@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+change in the first repository
+=======
+change in the second repository
+>>>>>>> 7920aee69ba859f6991cbb230d69813521773d7f
